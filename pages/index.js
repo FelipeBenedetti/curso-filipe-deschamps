@@ -1,6 +1,6 @@
 function Home(){
   return(
-    <h1> Homee </h1>
+    <h1> Homee gold </h1>
   )
 }
 
