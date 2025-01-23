@@ -4,7 +4,9 @@
   "description": "Rep para o curso Filipe Deschamps",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "vercel-build": "next build"
   },
   "author": "",
   "license": "ISC",

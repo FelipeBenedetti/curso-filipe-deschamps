@@ -3,3 +3,5 @@ function Home(){
     <h1> Homee </h1>
   )
 }
+
+export default Home;
